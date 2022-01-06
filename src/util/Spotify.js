@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = '9d5fbc5379124ca4beeb2a5e6b93a231';
-const redirectUri = 'http://elated-loss.surge.sh';
+const redirectUri = 'http://jammingbm.surge.sh';
 
 const Spotify = {
     getAccessToken(){
